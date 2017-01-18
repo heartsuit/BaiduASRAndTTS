@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SpeechProcessing.AutomaticSpeechRecognition">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>AutomaticSpeechRecognition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeechProcessing.ClassUtils">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeechProcessing.Form1">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>BIIAAABEACAJAEMQAQKAAogiIAAAAIAACAQAEwAQcAo=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeechProcessing.Program">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeechProcessing.Model.SpeechModel">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAQAgAAgAABEAAAAQAAAAAAAQAAIAAAAgAgAAAI=</HashCode>
+      <FileName>Model\SpeechModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpeechProcessing.Recorder.DirectRecorder" BaseTypeListCollapsed="true">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgQAEACCADIAAAAEA4EAAAABAAACBAAAYBBABEE=</HashCode>
+      <FileName>Recorder\DirectRecorder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SpeechProcessing.Recorder.NAudioRecorder" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAEAACAAAAAAAAEAEAAEAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Recorder\NAudioRecorder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Struct Name="SpeechProcessing.Model.WavInfo">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAgAAAAQAIAhAgAAAAAAAgQAEAAAAAAAEAAAAAEAAA=</HashCode>
+      <FileName>Model\WaveInfo.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="SpeechProcessing.Recorder.ISpeechRecorder">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAEAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Recorder\ISpeechRecorder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>
