@@ -26,4 +26,8 @@
 - The token.dat in bin/Debug, contains the generated token(first line) and the time it was generated(second line).
 - When using the DirectRecorder version to do record work, set Exception Settings(Ctrl+Alt+E)--->Managed Debugging Assistants--->LoaderLock(Uncheck this).
 
+## Reference
+- [http://yuyin.baidu.com/docs](http://yuyin.baidu.com/docs)
+- [http://blog.csdn.net/u013810234/article/details/54604355](http://blog.csdn.net/u013810234/article/details/54604355)
+
 
